@@ -1,0 +1,22 @@
+.FormularioArr {
+  height: 30px;
+  width: 300px;
+  background-color: #f0f0f0;
+  padding-top: 0.5em;
+  padding-top: 0;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  margin-top: 20px;
+}
+
+.FormularioAba {
+  height: 30px;
+  width: 300px;
+  /* background-color: #f0f0f0; */
+  padding-top: 0.5em;
+  padding-top: 0;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  margin-top: 20px;
+  border: black;
+}
